@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="Tecnologia Principal" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img alt="Linguagem do Layout" src="https://img.shields.io/badge/XML-d9534f?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img alt="Licença" src="https://img.shields.io/github/license/vrsmarcos26/iffod-clone-ui?style=for-the-badge&color=blue">
+  <img alt="Licença" src="https://img.shields.io/github/license/vrsmarcos26/ifood-clone-ui?style=for-the-badge&color=blue">
 </p>
 
 <p align="center">
